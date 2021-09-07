@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shanu Dengre</h1>
 <h3 align="center">Data Science</h3>
 
+- 🔭 I’m currently working on [next-restaurant](https://dashboard.heroku.com/apps/next-restaurant-finder)
+
 - 📫 How to reach me **shanudengre82@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
