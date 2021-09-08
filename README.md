@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [next-restaurant](https://dashboard.heroku.com/apps/next-restaurant-finder)
 
+- 🌱 I’m currently learning **Power BI, Tableau**
+
 - 📫 How to reach me **shanudengre82@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
