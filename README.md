@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [next-restaurant](https://dashboard.heroku.com/apps/next-restaurant-finder)
 
-- 🌱 I’m currently learning **Power BI, Tableau, AWS, MySQL**
+- 🌱 I’m currently learning **OpenCV, Power BI, Tableau, AWS, MySQL**
 
 - 💬 Ask me about **Python**
 
