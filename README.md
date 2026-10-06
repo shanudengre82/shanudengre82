@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shanu Dengre</h1>
 <h2 align="center">Sr. Data Scientist</h2>
 
-- 🔭 I’m currently working on [next-restaurant](https://github.com/shanudengre82/next_restaurant), for an interactive web interface, follow the streamlit web app [here](https://nextrestaurant.streamlit.app/) 
+- 🔭 I’m currently working on [next-restaurant](https://github.com/shanudengre82/next_restaurant), an interactive web interface. Follow the Streamlit web app [here](https://next-restaurant.onrender.com/) 
 
-- 🌱 I have more than 4 years of work experience as a Data Scientist focussing on developing machine learning models for time series forecasting (sales and demand) and computer vision (object detection and segmentation).
+- 🌱 I have more than 4 years of work experience as a Data Scientist focusing on developing machine learning models for time series forecasting (sales and demand) and computer vision (object detection and segmentation).
 
 - 💬 Ask me about **Python and Data Science**
 
