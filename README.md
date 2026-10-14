@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dr. Shanu Dengre</h1>
-<h2 align="center">Sr. Data Scientist</h2>
+<h2 align="center">Sr. Data Scientist & Demand Forecast Project Lead @ InterProductTec</h2>
 
-- 🔭 I’m currently working on [next-restaurant](https://github.com/shanudengre82/next_restaurant), an interactive web interface. Follow the Streamlit web app [here](https://next-restaurant.onrender.com/) 
+- 🔭 I’m currently working on [AI News Navigator](https://github.com/shanudengre82/ai-news-navigator), an agentic RAG assistant that finds and summarises new AI papers and blog posts (LangGraph, hybrid BM25 + FAISS retrieval, MCP server). Try the live app on [Hugging Face Spaces](https://huggingface.co/spaces/shanudengre82/ai-news-navigator)
 
-- 🌱 I have more than 4.5+ years of work experience as a Data Scientist focusing on developing machine learning models for time series forecasting (sales and demand) and computer vision (object detection and segmentation).
+- 🌱 I have more than 4.5+ years of experience in MLOps and applied machine learning. At InterProductTec I lead demand forecasting across 300+ locations in 10+ restaurant chains, and previously at PreciTaste I built time series forecasting and computer vision systems (DARTS, YOLO, SAM, Kafka, OpenVINO). My background is a PhD in Physics from TU Dresden.
 
-- 💬 Ask me about **Python and Data Science**
+- 💬 Ask me about **Python, Data Science, MLOps and GenAI/LLM agents**
 
-- 📫 How to reach me **shanudengre82@gmail.com**
+- 📫 How to reach me **shanudengre82@gmail.com** · Portfolio [shanudengre.com](https://www.shanudengre.com/)
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
@@ -43,8 +43,8 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21~bgwhite.svg" alt="docker" width="80" height="40"/> </a>
   <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21~bgwhite.svg" alt="GCP" width="80" height="40"/> </a>
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21~bgwhite.svg" alt="AWS" width="80" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21~bgwhite.svg" alt="git" width="80" height="40"/</a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21~bgwhite.svg" alt="git" width="80" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21~bgwhite.svg" alt="Linux" width="80" height="40"/> </a>
   <a href="https://sentry.io/welcome/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-ar21~bgwhite.svg" alt="Sentry" width="80" height="40"/> </a>
-  <a href="https://sentry.io/welcome/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21~bgwhite.svg" alt="Sentry" width="80" height="40"/> </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21~bgwhite.svg" alt="Jira" width="80" height="40"/> </a>
 </p>
